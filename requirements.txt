@@ -1,0 +1,8 @@
+apache-airflow-providers-postgres
+psycopg2-binary
+pandas
+scikit-learn==1.3.2
+joblib
+#dask[dataframe]
+dask-ml
+sqlalchemy
